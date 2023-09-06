@@ -16,7 +16,7 @@
 ![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 - 🤔 I’m looking for get a job!
 - 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-cuicuiv5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:legeling567@gmail.com)](mailto:legeling567@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-legeling567@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:legeling567@gmail.com)](mailto:legeling567@gmail.com)
 - 😄 Pronouns: Chinese and English
 - ⚡ Fun fact: 💻
 
