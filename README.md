@@ -14,12 +14,10 @@
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/static/v1?style=flat-square&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-- 🤔 I’m looking for get a job!
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-legeling567@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:legeling567@gmail.com)](mailto:legeling567@gmail.com)
 - 😄 Pronouns: Chinese and English
 - ⚡ Fun fact: 💻
-
 
 
 ![](https://github-readme-stats.vercel.app/api?username=legeling)
