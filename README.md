@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile-header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
   <img alt="Ling Xiaotian - open-source builder" src="./assets/profile-header-light.svg" width="100%">

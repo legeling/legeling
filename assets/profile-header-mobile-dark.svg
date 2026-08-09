@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ling Xiaotian - open-source builder</title>
+  <desc id="desc">Mobile profile banner for Ling Xiaotian.</desc>
+  <rect width="600" height="300" fill="#0D1117"/>
+  <rect x="0" y="0" width="10" height="300" fill="#FF7B62"/>
+  <path d="M32 32H568M32 268H568" fill="none" stroke="#30363D" stroke-width="2"/>
+  <text x="32" y="68" fill="#4CC9B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">LEGELING / PROFILE</text>
+  <text x="32" y="128" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="43" font-weight="750">LING XIAOTIAN</text>
+  <text x="32" y="165" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">OPEN SOURCE / AI TOOLS</text>
+  <rect x="32" y="188" width="180" height="6" fill="#FF7B62"/>
+  <rect x="212" y="188" width="128" height="6" fill="#4CC9B0"/>
+  <rect x="340" y="188" width="76" height="6" fill="#E3B341"/>
+  <rect x="32" y="214" width="54" height="40" fill="#F0F6FC"/>
+  <text x="59" y="242" text-anchor="middle" fill="#0D1117" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="800">LX</text>
+  <text x="104" y="230" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">HANGZHOU, CHINA</text>
+  <text x="104" y="251" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">BUILD / SHIP / SHARE</text>
+</svg>
